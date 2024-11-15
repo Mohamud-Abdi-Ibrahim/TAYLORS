@@ -1,4 +1,4 @@
-OPENAI 
-STREAMLIT
+openai 
+streamlit
 pymupdf
 docx
