@@ -6,7 +6,7 @@ from docx import Document  # python-docx for reading Word files
 import time
 
 # Initialize OpenAI API key
-client = OpenAI(api_key=st.secrets(['OPENAI_API_KEY']))
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # CSS for custom styling
 st.markdown("""
